@@ -1,7 +1,7 @@
 ---
 sudo: required
 language: python
-python: 
+python:
   - "3.6"
 no_log: false
 services:
