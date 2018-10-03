@@ -1,6 +1,7 @@
 ---
 sudo: required
 language: python
+no_log: false
 services:
   - docker
 before_install:
