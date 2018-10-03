@@ -6,7 +6,7 @@ CI Status
 Role Name
 =========
 
-A brief description of the role goes here.
+A sample ansible role that does :awyisss: stuff to compliment stuff over at https://frizzell.io/
 
 Requirements
 ------------
