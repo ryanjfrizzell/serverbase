@@ -11,4 +11,4 @@ install:
   - pip install molecule
   # - pip install required driver (e.g. docker, python-vagrant, shade, boto, apache-libcloud)
 script:
-  - molecule test
+  - molecule --debug test
